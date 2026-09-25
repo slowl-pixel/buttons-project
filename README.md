@@ -19,5 +19,4 @@ A simple interactive button project built using HTML and CSS.
 This project helped me practice HTML structure, CSS styling, hover effects, transitions, and creating interactive user interface elements.
 
 ## Author
-
-Type Max
+Maxwell Juma
